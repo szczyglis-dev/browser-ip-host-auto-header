@@ -16,7 +16,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 - automatically includes the appropriate HTTP Host header to the request
 - allows you to import / export a list of IP addresses and hosts
 
-## HOW TO INSTALL EXTENSION FROM GITHUB:
+## HOW TO INSTALL:
 
 1) Download .zip file with `Code->Download Zip` and extract it 
 2) Open `chrome://extensions` in your Chrome or Chromium browser
