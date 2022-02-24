@@ -1,0 +1,40 @@
+.container {
+  width: auto;
+  margin:  auto;
+}
+
+button {
+  height: 30px;
+  width: auto;
+  outline: none;
+  margin: 10px;
+  border: 1px solid silver;
+  border-radius: 2px;
+  background: #2196f3;
+  color: white;
+  font-weight: bold;
+}
+
+button:hover {
+  cursor:  pointer;
+  background: #44abfc;
+}
+
+button.current {
+  box-shadow: 0 0 0 2px white,
+              0 0 0 4px black;
+}
+
+.btn-add {
+  background: #4caf50;
+}
+.btn-add:hover {
+  background: #65b968;
+}
+
+.btn-delete {
+  background: #f44336;
+}
+.btn-delete:hover {
+  background: #f95d52;
+}

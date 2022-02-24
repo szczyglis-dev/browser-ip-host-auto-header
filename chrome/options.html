@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>IP-HOST AUTO-HEADER - Chrome/Chromium extension</h1>
+      <p><b>v.1.0 | build 2022-02-24</b> by Marcin 'szczyglis' Szczyglinski<br/>
+        <b>Check for updates: </b><a href="https://github.com/szczyglis-dev/browser-ip-host-auto-header" target="_blank">https://github.com/szczyglis-dev/browser-ip-host-auto-header</a></p>
+      <hr/>
+      <h2>IP / HOSTS LIST</h2>
+      <p><b>Add IPs and corresponding hosts here.</b><br/>
+      If the record is active every time a given address is accessed, the Host header from the list will be automatically sent</p>
+      <div id="container"></div>
+      <button id="add" class="btn-add">ADD</button><br/>
+      <button id="save">SAVE CHANGES</button>
+      <hr>
+      <h3>IMPORT</h3>
+      <p>Paste the exported content here and click on "IMPORT" button (warning: all current entries will be replaced):</p>
+      <textarea id="import-textarea"></textarea>
+      <br/>
+      <button id="import">IMPORT</button>
+      <hr>
+      <h3>EXPORT</h3>
+      <p>Select and copy the content below and save it to any txt file:</p>
+      <textarea id="export-textarea" readonly></textarea>
+    </div>
+  </body>
+  <script src="options.js"></script>
+</html>
