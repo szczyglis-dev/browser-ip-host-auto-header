@@ -18,7 +18,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 ## HOW TO INSTALL EXTENSION FROM GITHUB:
 
-1) Download .zip file and extract it
+1) Download .zip file with `Code->Download Zip` and extract it 
 2) Open `chrome://extensions` in your Chrome or Chromium browser
 3) Enable `Developer Mode` if disabled
 4) Click on `Load unpacked` button and choose `chrome` directory from extracted zip archive
@@ -30,7 +30,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 ## USAGE:
 
-1) Go to `Options`
+1) Go to extension's `Options`
 2) Add IP and host and enable it by enabling checkbox next to it
 3) If enabled, the browser will automatically attach the `HTTP Host` header corresponding to this IP address during the request
 4) Optionally export your list and import on another device
