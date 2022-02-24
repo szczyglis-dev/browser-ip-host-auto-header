@@ -16,7 +16,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 - automatically includes the appropriate HTTP Host header to the request
 - allows you to import / export a list of IP addresses and hosts
 
-## HOW TO INSTALL:
+## How to install:
 
 1) Download .zip file with `Code->Download Zip` and extract it 
 2) Open `chrome://extensions` in your Chrome or Chromium browser
@@ -28,7 +28,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 ---
 
-## USAGE:
+## Usage:
 
 1) Go to extension's `Options`
 2) Add IP and host and enable it by enabling checkbox next to it
@@ -37,13 +37,13 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 ---
 
-## OPTIONS WINDOW:
+## Screenshot:
 
 ![chrome](https://user-images.githubusercontent.com/61396542/155437076-dd0f28fb-981b-40c8-9cb2-2def2b8588d1.png)
 
 ---
  
-### IP-HOST AUTO-HEADER is free to use but if you liked then you can donate project via BTC: 
+### This software is free to use but if you liked then you can donate project via BTC: 
 
 **1LK9tDPBuBFXCKUThFWXNvdcdJ4gzx1Diz**
 
