@@ -1,13 +1,10 @@
-# IP-HOST AUTO-HEADER
-## Browser extension
+# IP-HOST AUTO-HEADER | Browser extension
 ## Supported browsers: Chrome, Chromium
 
 Current version: **1.0** | 2022-02-24
 
-The IP-HOST AUTO-HEADER extension allows you to create a list of IP addresses and their corresponding hosts.
-Hostnames assigned to the IP address are then automatically appended to the request in the HTTP "Host" header if a connection to the given IP address is detected. This enables automated access to servers using their IP addresses and a prepared list against domain names. The list of IP addresses / hosts can be exported / imported from a JSON file.
-
----
+**The IP-HOST AUTO-HEADER extension allows you to create a list of IP addresses and their corresponding hosts.
+Hostnames assigned to the IP address are then automatically appended to the request in the HTTP "Host" header if a connection to the given IP address is detected. This enables automated access to servers using their IP addresses and a prepared list against domain names. The list of IP addresses / hosts can be exported / imported from a JSON file.**
 
 ## Features:
 
@@ -42,11 +39,11 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 ## OPTIONS WINDOW:
 
-![chrome](https://user-images.githubusercontent.com/61396542/155435402-a0773664-1216-4a55-825f-f63659bb10b0.png)
+![chrome](https://user-images.githubusercontent.com/61396542/155437076-dd0f28fb-981b-40c8-9cb2-2def2b8588d1.png)
 
 ---
  
-### IP-HOST AUTO HTTP HEADER is free to use but if you liked then you can donate project via BTC: 
+### IP-HOST AUTO-HEADER is free to use but if you liked then you can donate project via BTC: 
 
 **1LK9tDPBuBFXCKUThFWXNvdcdJ4gzx1Diz**
 
