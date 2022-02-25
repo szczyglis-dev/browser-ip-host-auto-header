@@ -3,9 +3,12 @@
   "description": "https://github.com/szczyglis-dev/browser-ip-host-auto-header",
   "version": "1.1",
   "manifest_version": 2,
-  "background": {
-    "service_worker": "background.js"
-  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["background.js"]
+    }
+  ],
   "permissions": [
     "storage", 
     "activeTab",
@@ -13,11 +16,18 @@
     "webRequestBlocking",
     "<all_urls>"
   ],
-  "options_page": "options.html",
+  "options_ui": {
+    "page": "options.html"
+  },
   "icons": {
     "16": "/images/icon16.png",
     "32": "/images/icon32.png",
     "48": "/images/icon48.png",
     "128": "/images/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ip-host-auto-header@szczyglis.com"
+    }
   }
 }
