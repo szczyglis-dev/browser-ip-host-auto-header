@@ -38,7 +38,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 **Tutorial here:** https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
 
-WARNING: in Firefox temporary extensions are enabled only by browser session
+`WARNING` in Firefox temporary extensions are enabled only by browser session
 
 # Opera
 
@@ -52,7 +52,7 @@ WARNING: in Firefox temporary extensions are enabled only by browser session
 
 ---
 
-## USAGE:
+## Usage:
 
 1) Go to `Options/Preferences` (depends on selected browser)
 2) Add IP and host and enable it by enabling checkbox next to it
@@ -61,13 +61,13 @@ WARNING: in Firefox temporary extensions are enabled only by browser session
 
 ---
 
-## OPTIONS WINDOW:
+## Screenshot:
 
-![chrome](https://user-images.githubusercontent.com/61396542/155437076-dd0f28fb-981b-40c8-9cb2-2def2b8588d1.png)
+![screenshot](https://user-images.githubusercontent.com/61396542/155732772-a52927c5-058b-4290-8fae-ab8871fcd09e.png)
 
 ---
  
-### IP-HOST AUTO-HEADER is free to use but if you liked then you can donate project via BTC: 
+### Software is free to use but if you liked then you can donate project via BTC: 
 
 **1LK9tDPBuBFXCKUThFWXNvdcdJ4gzx1Diz**
 
