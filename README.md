@@ -26,7 +26,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 4) Click on `Load unpacked` button and choose `./chrome` directory from extracted zip archive
 5) Pin extension to toolbar and go to extension options/preferences to configure IP/Host list.
 
-**Tutorial here:** https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
+**Tutorial:** https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 
 # Firefox
 
@@ -36,7 +36,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 4) Click `Load Temporary Add-on` button and choose `./firefox/manifest.json` file from extracted zip archive
 5) Go to Add-on preferences to configure IP/Host list.
 
-**Tutorial here:** https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
+**Tutorial:** https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
 
 `WARNING` in Firefox temporary extensions are only active until the browser is turned off
 
@@ -48,7 +48,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 4) Click `Load Temporary Add-on` button and choose `./opera/manifest.json` file from extracted zip archive
 5) Pin extension to toolbar and go to Add-on preferences to configure IP/Host list.
 
-**Tutorial here:** https://dev.opera.com/extensions/basics/
+**Tutorial:** https://dev.opera.com/extensions/basics/
 
 ---
 
