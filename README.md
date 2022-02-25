@@ -38,7 +38,7 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 **Tutorial here:** https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
 
-`WARNING` in Firefox temporary extensions are enabled only by browser session
+`WARNING` in Firefox temporary extensions are only active until the browser is turned off
 
 # Opera
 
