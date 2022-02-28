@@ -18,6 +18,16 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 
 ## How to install:
 
+You can choose installation method: online (from addon official page) and dev (from github).
+Currently only Firefox version is enabled in addons page.
+
+## Installation from add-ons page:
+
+Firefox: https://addons.mozilla.org/pl/firefox/addon/ip-host-auto-header/
+
+
+## Installation from GitHub (dev mode):
+
 # Chrome / Chromium
 
 1) Download .zip file and extract it
