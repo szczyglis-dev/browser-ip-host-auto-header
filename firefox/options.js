@@ -47,6 +47,17 @@ function init() {
   addBtn.addEventListener("click", createItem);
   saveBtn.addEventListener("click", save);
   importBtn.addEventListener("click", importJson);
+
+  browser.storage.sync.get('isInitialized', function(items) {
+    if (typeof items.isInitialized === "undefined" || items.isInitialized == null || items.isInitialized === false) {
+      let json = JSON.stringify([
+        {ip: 'http://40.114.177.156', host: 'duckduckgo.com', enabled: true}
+      ]);
+      let isInitialized = true;
+      browser.storage.sync.set({ json });
+      browser.storage.sync.set({ isInitialized });
+    }
+  });
 }
 
 function importJson() {

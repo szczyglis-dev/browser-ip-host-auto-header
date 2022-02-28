@@ -2,6 +2,7 @@ let json = JSON.stringify([
   {ip: 'http://40.114.177.156', host: 'duckduckgo.com', enabled: true}
 ]);
 let hostsList;
+let isInitialized = false;
 
 function getHost(url) {
   let hostname;
@@ -19,6 +20,7 @@ function getHost(url) {
 
 browser.runtime.onInstalled.addListener(() => {
   browser.storage.sync.set({ json });
+  browser.storage.sync.set({ isInitialized });
 });
 
 browser.webRequest.onBeforeSendHeaders.addListener(
