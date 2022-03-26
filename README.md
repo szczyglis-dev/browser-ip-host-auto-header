@@ -89,6 +89,6 @@ Enjoy!
 
 MIT License | 2022 Marcin 'szczyglis' Szczygliński
 
-https://github.com/szczyglis-dev/php-ultra-small-proxy
+https://github.com/szczyglis-dev/browser-ip-host-auto-header
 
 Contact: szczyglis@protonmail.com
