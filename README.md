@@ -21,12 +21,12 @@ Hostnames assigned to the IP address are then automatically appended to the requ
 You can choose installation method: online (from addon official page) and dev (from github).
 Currently only Firefox version is enabled in addons page.
 
-## 1) Install from add-ons page:
+**1) Install from add-ons page:**
 
 Firefox: https://addons.mozilla.org/pl/firefox/addon/ip-host-auto-header/
 
 
-## 2) Install from GitHub (dev mode):
+**2) Install from GitHub (dev mode):**
 
 # Chrome / Chromium
 
