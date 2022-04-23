@@ -1,5 +1,5 @@
 # IP-Host AutoHeader | browser extension
-## Supported browsers: Firefox, Opera, Chrome, Chromium
+Supported browsers: **Firefox, Opera, Chrome, Chromium**
 
 Current version: **1.2** | 2022-02-28
 
