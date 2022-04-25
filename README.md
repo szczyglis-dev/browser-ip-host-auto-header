@@ -1,4 +1,4 @@
-# IP-Host Auto Header - browsers extension
+# IP-Host Auto Header - browsers extension/add-on
 Supported browsers: **Firefox, Opera, Chrome, Chromium**
 
 Current version: **1.2** | 2022-02-28
