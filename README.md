@@ -76,17 +76,12 @@ Firefox: https://addons.mozilla.org/pl/firefox/addon/ip-host-auto-header/
 
 ![screenshot](https://user-images.githubusercontent.com/61396542/155732772-a52927c5-058b-4290-8fae-ab8871fcd09e.png)
 
----
- 
-### Software is free to use but if you liked then you can donate project via BTC: 
+--- 
+**Extension is free to use, but if you like it, you can support my work by buying me a coffee ;)**
 
-**14X6zSCbkU5wojcXZMgT9a4EnJNcieTrcr**
+https://www.buymeacoffee.com/szczyglis
 
-or by PayPal:
- **[https://www.paypal.me/szczyglinski](https://www.paypal.me/szczyglinski)**
-
-
-Enjoy!
+**Enjoy!**
 
 MIT License | 2022 Marcin 'szczyglis' Szczygliński
 
